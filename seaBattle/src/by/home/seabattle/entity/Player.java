@@ -1,7 +1,8 @@
-package entity;
+package by.home.seabattle.entity;
 
 import java.util.Scanner;
-import validation.Validation;
+
+import by.home.seabattle.validation.Validation;
 
 public class Player {
 	private String name;

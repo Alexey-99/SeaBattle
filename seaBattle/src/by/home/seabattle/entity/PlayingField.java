@@ -1,14 +1,14 @@
-package entity;
+package by.home.seabattle.entity;
 
-import ship.FourDeck;
-import ship.OneDeck;
-import ship.ThreeDeck;
-import ship.TwoDeck;
-import shiphalo.ShipHaloFourDeck;
-import shiphalo.ShipHaloOneDeck;
-import shiphalo.ShipHaloThreeDeck;
-import shiphalo.ShipHaloTwoDeck;
-import validation.Validation;
+import by.home.seabattle.ship.FourDeck;
+import by.home.seabattle.ship.OneDeck;
+import by.home.seabattle.ship.ThreeDeck;
+import by.home.seabattle.ship.TwoDeck;
+import by.home.seabattle.shiphalo.ShipHaloFourDeck;
+import by.home.seabattle.shiphalo.ShipHaloOneDeck;
+import by.home.seabattle.shiphalo.ShipHaloThreeDeck;
+import by.home.seabattle.shiphalo.ShipHaloTwoDeck;
+import by.home.seabattle.validation.Validation;
 
 public class PlayingField {
 	private String[][] playingField;

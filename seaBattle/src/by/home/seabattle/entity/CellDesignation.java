@@ -1,4 +1,4 @@
-package entity;
+package by.home.seabattle.entity;
 
 public enum CellDesignation {
 	SHIP_ONE("⛴️"), FREE("​🔵"), SHIP_HALO("🌞"), WOUNDED("❎"), CELL("🔳");

@@ -1,7 +1,7 @@
-package seabattle;
+package by.home.seabattle.seabattle;
 
-import entity.Player;
-import validation.Validation;
+import by.home.seabattle.entity.Player;
+import by.home.seabattle.validation.Validation;
 
 public class GameStep {
 	private static final String X_AND_SPACE = " X - ";

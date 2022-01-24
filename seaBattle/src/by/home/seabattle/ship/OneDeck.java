@@ -1,10 +1,10 @@
-package ship;
+package by.home.seabattle.ship;
 
 import java.util.Scanner;
 
-import entity.CellDesignation;
-import shiphalo.ShipHaloOneDeck;
-import validation.Validation;
+import by.home.seabattle.entity.CellDesignation;
+import by.home.seabattle.shiphalo.ShipHaloOneDeck;
+import by.home.seabattle.validation.Validation;
 
 public class OneDeck {
 

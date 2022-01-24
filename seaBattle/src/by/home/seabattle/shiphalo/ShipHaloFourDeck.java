@@ -1,6 +1,6 @@
-package shiphalo;
+package by.home.seabattle.shiphalo;
 
-import entity.CellDesignation;
+import by.home.seabattle.entity.CellDesignation;
 
 public class ShipHaloFourDeck {
 	private static final int LAST_COORDINATE_POINT = 9;

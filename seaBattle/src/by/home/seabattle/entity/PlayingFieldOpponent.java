@@ -1,9 +1,9 @@
-package entity;
+package by.home.seabattle.entity;
 
-import shiphalo.ShipHaloFourDeck;
-import shiphalo.ShipHaloOneDeck;
-import shiphalo.ShipHaloThreeDeck;
-import shiphalo.ShipHaloTwoDeck;
+import by.home.seabattle.shiphalo.ShipHaloFourDeck;
+import by.home.seabattle.shiphalo.ShipHaloOneDeck;
+import by.home.seabattle.shiphalo.ShipHaloThreeDeck;
+import by.home.seabattle.shiphalo.ShipHaloTwoDeck;
 
 public class PlayingFieldOpponent {
 	private String[][] playingFieldOpponent;

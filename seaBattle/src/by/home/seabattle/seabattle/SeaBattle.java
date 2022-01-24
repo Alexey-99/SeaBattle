@@ -1,8 +1,8 @@
-package seabattle;
+package by.home.seabattle.seabattle;
 
 import java.util.Scanner;
 
-import entity.Player;
+import by.home.seabattle.entity.Player;
 
 public class SeaBattle {
 	private static final String START_PLACING_SHIPS_IN_FIELD = "Начнём расстовлять коробли на поле.";
