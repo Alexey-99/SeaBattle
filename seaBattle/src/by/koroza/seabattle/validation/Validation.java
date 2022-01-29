@@ -1,6 +1,6 @@
-package by.home.seabattle.validation;
+package by.koroza.seabattle.validation;
 
-import by.home.seabattle.entity.CellDesignation;
+import by.koroza.seabattle.entity.CellDesignation;
 
 public class Validation {
 	private static final String COORDINATES_INCORRECTLY_ENTERED_NUMBER_ONE = "Некорректно введены координаты. 1";

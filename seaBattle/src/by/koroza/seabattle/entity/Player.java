@@ -1,8 +1,8 @@
-package by.home.seabattle.entity;
+package by.koroza.seabattle.entity;
 
 import java.util.Scanner;
 
-import by.home.seabattle.validation.Validation;
+import by.koroza.seabattle.validation.Validation;
 
 public class Player {
 	private String name;

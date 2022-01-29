@@ -1,10 +1,10 @@
-package by.home.seabattle.ship;
+package by.koroza.seabattle.ship;
 
 import java.util.Scanner;
 
-import by.home.seabattle.entity.CellDesignation;
-import by.home.seabattle.shiphalo.ShipHaloThreeDeck;
-import by.home.seabattle.validation.Validation;
+import by.koroza.seabattle.entity.CellDesignation;
+import by.koroza.seabattle.shiphalo.ShipHaloThreeDeck;
+import by.koroza.seabattle.validation.Validation;
 
 public class ThreeDeck {
 

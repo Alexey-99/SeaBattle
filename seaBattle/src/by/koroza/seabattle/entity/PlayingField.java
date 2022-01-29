@@ -1,14 +1,14 @@
-package by.home.seabattle.entity;
+package by.koroza.seabattle.entity;
 
-import by.home.seabattle.ship.FourDeck;
-import by.home.seabattle.ship.OneDeck;
-import by.home.seabattle.ship.ThreeDeck;
-import by.home.seabattle.ship.TwoDeck;
-import by.home.seabattle.shiphalo.ShipHaloFourDeck;
-import by.home.seabattle.shiphalo.ShipHaloOneDeck;
-import by.home.seabattle.shiphalo.ShipHaloThreeDeck;
-import by.home.seabattle.shiphalo.ShipHaloTwoDeck;
-import by.home.seabattle.validation.Validation;
+import by.koroza.seabattle.ship.FourDeck;
+import by.koroza.seabattle.ship.OneDeck;
+import by.koroza.seabattle.ship.ThreeDeck;
+import by.koroza.seabattle.ship.TwoDeck;
+import by.koroza.seabattle.shiphalo.ShipHaloFourDeck;
+import by.koroza.seabattle.shiphalo.ShipHaloOneDeck;
+import by.koroza.seabattle.shiphalo.ShipHaloThreeDeck;
+import by.koroza.seabattle.shiphalo.ShipHaloTwoDeck;
+import by.koroza.seabattle.validation.Validation;
 
 public class PlayingField {
 	private String[][] playingField;
