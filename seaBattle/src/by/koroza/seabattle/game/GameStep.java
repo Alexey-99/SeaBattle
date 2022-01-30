@@ -1,10 +1,10 @@
-package by.koroza.seabattle.seabattle;
+package by.koroza.seabattle.game;
 
 import by.koroza.seabattle.entity.Player;
 import by.koroza.seabattle.validation.Validation;
 
 public class GameStep {
-	private static final String X_AND_SPACE = " X - ";
+	private static final String X_AND_SPACE = " X - "; 
 	private static final String SPACE_AND_Y_AND_SPACE = " , Y - ";
 	private static final String THE_PLAYER = " У игрока: ";
 

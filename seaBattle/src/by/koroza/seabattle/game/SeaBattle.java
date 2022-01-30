@@ -1,4 +1,4 @@
-package by.koroza.seabattle.seabattle;
+package by.koroza.seabattle.game;
 
 import java.util.Scanner;
 
