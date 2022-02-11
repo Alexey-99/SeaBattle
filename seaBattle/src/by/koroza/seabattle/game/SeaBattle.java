@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import by.koroza.seabattle.entity.Player;
 
-public class SeaBattle {
+public class SeaBattle { 
 	private static final String START_PLACING_SHIPS_IN_FIELD = "Начнём расстовлять коробли на поле.";
 	private static final String DOT_AND_SPACE_PLAYER_PLUS_SPACE = " Игрок ";
 	private static final String PLAYER_PLUS_SPACE = "Игрок ";
