@@ -6,9 +6,9 @@ import by.koroza.seabattle.entity.Player;
 
 public class SeaBattle {
 	private static final String START_PLACING_SHIPS_IN_FIELD = "Начнём расстовлять коробли на поле.";
-	private static final String DOT_AND_SPACE_PLAYER_PLUS_SPACE = "Игрок ";
+	private static final String DOT_AND_SPACE_PLAYER_PLUS_SPACE = " Игрок ";
 	private static final String PLAYER_PLUS_SPACE = "Игрок ";
-	private static final String PLAYER_WITH_NAME_PLAYCES_SHIPS = "Расставляет коробли игрок с именем";
+	private static final String PLAYER_WITH_NAME_PLAYCES_SHIPS = "Расставляет коробли игрок с именем ";
 	private static final String SPACE_AND_TOURNS_AWAY = " отварачивается";
 	private static final String GEME_OVER = "ИГРА ОКОНЧЕНА !!!";
 	private static final String SPACE_WON_DOT = "победил.";
