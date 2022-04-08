@@ -18,6 +18,7 @@ public class ThreeDeck {
 		while (flagWhile) {
 			boolean flagBuildMatrix = true;
 			System.out.println("Введи координаты трёхпалубного коробля (формат: x,y;x,y;x,y) (от 0 до 9 включительно)");
+			@SuppressWarnings("resource")
 			Scanner scan = new Scanner(System.in);
 			String lineСoordinates = scan.nextLine();
 			String[] arrayTreeСoordinates = lineСoordinates.split(";");

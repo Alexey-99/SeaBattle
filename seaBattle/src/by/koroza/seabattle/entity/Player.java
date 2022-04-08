@@ -64,6 +64,7 @@ public class Player {
 		String lineCoordinate = null;
 		while (flagWhile) {
 			System.out.println("Введите координаты боя " + name);
+			@SuppressWarnings("resource")
 			Scanner scan = new Scanner(System.in);
 			lineCoordinate = scan.nextLine();
 			flagBuildMatrix = validation.presenceOneXAndYInOneCoordinateInOneDeck(lineCoordinate);

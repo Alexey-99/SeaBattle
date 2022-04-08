@@ -18,6 +18,7 @@ public class OneDeck {
 		while (flagWhile) {
 			boolean flagBuildMatrix = true;
 			System.out.println("Введи координаты однопалубного коробля (формат: x,y) (от 0 до 9 включительно)");
+			@SuppressWarnings("resource")
 			Scanner scan = new Scanner(System.in);
 			String lineСoordinates = scan.nextLine();
 			flagBuildMatrix = validation.presenceOneCoordinatesPointsInOneDeck(lineСoordinates);

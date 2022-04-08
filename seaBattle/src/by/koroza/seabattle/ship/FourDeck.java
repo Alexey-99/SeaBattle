@@ -18,6 +18,7 @@ public class FourDeck {
 		while (flag) {
 			boolean flagMatrix = true;
 			System.out.println("Введи координаты четырёхпалубного коробля (формат: x,y;x,y;x,y;x,y)");
+			@SuppressWarnings("resource")
 			Scanner scan = new Scanner(System.in);
 			String lineСoordinates = scan.nextLine();
 			flagMatrix = validation.presenceFourCoordinatesPointsInFourDeck(lineСoordinates);
